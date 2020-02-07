@@ -11,7 +11,7 @@
 <body>
 	<header>
 		<h1>ホテル検索結果一覧</h1>
-		<p><a href="./entry.html">検索ページに戻る</a></p>
+		<p><a href="./entry.php">検索ページに戻る</a></p>
 	</header>
 	<main>
 		<article>
